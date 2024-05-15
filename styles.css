@@ -94,6 +94,7 @@ h1, h2, h3 {
 
 .links a {
 	margin-inline: 2px;
+	text-decoration: none;
 }
 
 .links img {
